@@ -1,0 +1,14 @@
+{
+  "name": "ramsen-mods",
+  "description": "Claude Code mods by RamSen-IT",
+  "owner": {
+    "name": "RamSen-IT",
+    "url": "https://github.com/RamSen-IT"
+  },
+  "plugins": [
+    {
+      "name": "pins",
+      "source": "./"
+    }
+  ]
+}

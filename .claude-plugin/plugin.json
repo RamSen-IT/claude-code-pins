@@ -1,0 +1,11 @@
+{
+  "name": "pins",
+  "version": "0.1.0",
+  "description": "Pin Claude's replies and keep them one keystroke away, each collapsible like a spoiler",
+  "author": { "name": "RamSen-IT", "url": "https://github.com/RamSen-IT" },
+  "homepage": "https://github.com/RamSen-IT/claude-code-pins",
+  "repository": "https://github.com/RamSen-IT/claude-code-pins",
+  "license": "MIT",
+  "keywords": ["claude-code", "pins", "bookmarks", "tui"],
+  "types": "./types/index.d.ts"
+}
